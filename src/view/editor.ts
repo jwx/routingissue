@@ -1,4 +1,4 @@
 
-export class Editor{
- 
+export class Editor {
+    static title = 'Home - Editor';
 }
